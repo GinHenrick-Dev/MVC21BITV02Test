@@ -37,5 +37,34 @@
   </tbody>
 </table>
 
-</body>
-</html>
+<hr>
+<h2>
+  Phân công nhiệm vụ
+</h2>
+
+<table>
+<thead>
+    <tr>
+      <th>Tên</th>
+      <th>Nhiệm vụ</th>
+    </tr>
+  </thead>
+<tbody>
+    <tr>
+      <td>Nguyễn Minh Tường</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Phạm Mạnh Hùng</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lê Phúc Tài</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nguyễn Đức Duy</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
