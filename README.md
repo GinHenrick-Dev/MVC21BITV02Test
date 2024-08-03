@@ -52,19 +52,19 @@
 <tbody>
     <tr>
       <td>Nguyễn Minh Tường</td>
-      <td></td>
+      <td>Câu 3, Routing địa chỉ theo quy định, Lấy dữ liệu theo quy định (action GET), Trình bày thông tin hóa đơn theo yêu cầu</td>
     </tr>
     <tr>
       <td>Phạm Mạnh Hùng</td>
-      <td></td>
+      <td>Câu 1, Thêm mới hàng hóa</td>
     </tr>
     <tr>
       <td>Lê Phúc Tài</td>
-      <td></td>
+      <td>Câu 3, Hiển thị đúng cột thành tiền ở mỗi dòng, Hiển thị thêm thông tin hóa đơn như Mã HĐ, Ngày lập HĐ, họ tên khách hàng mua, tổng tiền cho hóa đơn</td>
     </tr>
     <tr>
       <td>Nguyễn Đức Duy</td>
-      <td></td>
+      <td>Câu 2, Thêm mới nhà cung cấp</td>
     </tr>
   </tbody>
 </table>
