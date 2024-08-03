@@ -1,18 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG - ASP.NET\\THIGIUAKI\\MVC21BITV02Test\\",
+  "WorkspaceRootPath": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng - asp.net\\thigiuaki\\mvc21bitv02test\\mvc21bitv02test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|solutionrelative:mvc21bitv02test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\Data\\MyeStoreContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|solutionrelative:MVC21BITV02Test\\Data\\MyeStoreContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng - asp.net\\thigiuaki\\mvc21bitv02test\\mvc21bitv02test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\mvc21bitv02test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|solutionrelative:mvc21bitv02test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG - ASP.NET\\THIGIUAKI\\MVC21BITV02Test\\MVC21BITV02Test\\Data\\MyeStoreContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC21BITV02Test\\Data\\MyeStoreContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|e:\\midterm ---- asp.net core mvc 02\\mvc21bitv02test\\mvc21bitv02test\\views\\hanghoas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|solutionrelative:mvc21bitv02test\\views\\hanghoas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\mvc21bitv02test\\views\\hanghoas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|solutionrelative:mvc21bitv02test\\views\\hanghoas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\mvc21bitv02test\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|solutionrelative:mvc21bitv02test\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\mvc21bitv02test\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|solutionrelative:mvc21bitv02test\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\mvc21bitv02test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|solutionrelative:mvc21bitv02test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\mvc21bitv02test\\data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|solutionrelative:mvc21bitv02test\\data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\mvc21bitv02test\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|solutionrelative:mvc21bitv02test\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\mvc21bitv02test\\mvc21bitv02test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD8952A5-E2AA-4D2E-B90F-6DDFDB9C078A}|MVC21BITV02Test\\MVC21BITV02Test.csproj|solutionrelative:mvc21bitv02test\\mvc21bitv02test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +50,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG - ASP.NET\\THIGIUAKI\\MVC21BITV02Test\\MVC21BITV02Test\\Program.cs",
-              "RelativeDocumentMoniker": "MVC21BITV02Test\\Program.cs",
-              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG - ASP.NET\\THIGIUAKI\\MVC21BITV02Test\\MVC21BITV02Test\\Program.cs",
-              "RelativeToolTip": "MVC21BITV02Test\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T00:26:01.636Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MyeStoreContext.cs",
-              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG - ASP.NET\\THIGIUAKI\\MVC21BITV02Test\\MVC21BITV02Test\\Data\\MyeStoreContext.cs",
-              "RelativeDocumentMoniker": "MVC21BITV02Test\\Data\\MyeStoreContext.cs",
-              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG - ASP.NET\\THIGIUAKI\\MVC21BITV02Test\\MVC21BITV02Test\\Data\\MyeStoreContext.cs",
-              "RelativeToolTip": "MVC21BITV02Test\\Data\\MyeStoreContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T00:40:33.073Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\Views\\HangHoas\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC21BITV02Test\\Views\\HangHoas\\Index.cshtml",
+              "ToolTip": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\Views\\HangHoas\\Index.cshtml",
+              "RelativeToolTip": "MVC21BITV02Test\\Views\\HangHoas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T03:33:09.087Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\Views\\HangHoas\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC21BITV02Test\\Views\\HangHoas\\Create.cshtml",
+              "ToolTip": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\Views\\HangHoas\\Create.cshtml",
+              "RelativeToolTip": "MVC21BITV02Test\\Views\\HangHoas\\Create.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswC8AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T03:28:14.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HangHoasController.cs",
+              "DocumentMoniker": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\Controllers\\HangHoasController.cs",
+              "RelativeDocumentMoniker": "MVC21BITV02Test\\Controllers\\HangHoasController.cs",
+              "ToolTip": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\Controllers\\HangHoasController.cs",
+              "RelativeToolTip": "MVC21BITV02Test\\Controllers\\HangHoasController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:26:54.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\Data\\HoaDon.cs",
+              "RelativeDocumentMoniker": "MVC21BITV02Test\\Data\\HoaDon.cs",
+              "ToolTip": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\Data\\HoaDon.cs",
+              "RelativeToolTip": "MVC21BITV02Test\\Data\\HoaDon.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:05:35.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\Data\\HangHoa.cs",
+              "RelativeDocumentMoniker": "MVC21BITV02Test\\Data\\HangHoa.cs",
+              "ToolTip": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\Data\\HangHoa.cs",
+              "RelativeToolTip": "MVC21BITV02Test\\Data\\HangHoa.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvykAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T02:18:26.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyeStoreContext.cs",
+              "DocumentMoniker": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\Data\\MyeStoreContext.cs",
+              "RelativeDocumentMoniker": "MVC21BITV02Test\\Data\\MyeStoreContext.cs",
+              "ToolTip": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\Data\\MyeStoreContext.cs",
+              "RelativeToolTip": "MVC21BITV02Test\\Data\\MyeStoreContext.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwDcAAACYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T02:11:50.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\Program.cs",
+              "RelativeDocumentMoniker": "MVC21BITV02Test\\Program.cs",
+              "ToolTip": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\Program.cs",
+              "RelativeToolTip": "MVC21BITV02Test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T00:26:01.636Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG - ASP.NET\\THIGIUAKI\\MVC21BITV02Test\\MVC21BITV02Test\\appsettings.json",
+              "DocumentMoniker": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\appsettings.json",
               "RelativeDocumentMoniker": "MVC21BITV02Test\\appsettings.json",
-              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG - ASP.NET\\THIGIUAKI\\MVC21BITV02Test\\MVC21BITV02Test\\appsettings.json",
+              "ToolTip": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\appsettings.json",
               "RelativeToolTip": "MVC21BITV02Test\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-03T00:26:02.265Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVC21BITV02Test\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVC21BITV02Test\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T01:44:47.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MVC21BITV02Test",
+              "DocumentMoniker": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\MVC21BITV02Test.csproj",
+              "RelativeDocumentMoniker": "MVC21BITV02Test\\MVC21BITV02Test.csproj",
+              "ToolTip": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\MVC21BITV02Test.csproj",
+              "RelativeToolTip": "MVC21BITV02Test\\MVC21BITV02Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T01:03:02.955Z"
             }
           ]
         }

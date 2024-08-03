@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PHÁT TRIỂN ỨNG DỤNG - ASP.NET\\THIGIUAKI\\MVC21BITV02Test\\MVC21BITV02Test\\MVC21BITV02Test.csproj": {}
+    "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\MVC21BITV02Test.csproj": {}
   },
   "projects": {
-    "D:\\PHÁT TRIỂN ỨNG DỤNG - ASP.NET\\THIGIUAKI\\MVC21BITV02Test\\MVC21BITV02Test\\MVC21BITV02Test.csproj": {
+    "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\MVC21BITV02Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PHÁT TRIỂN ỨNG DỤNG - ASP.NET\\THIGIUAKI\\MVC21BITV02Test\\MVC21BITV02Test\\MVC21BITV02Test.csproj",
+        "projectUniqueName": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\MVC21BITV02Test.csproj",
         "projectName": "MVC21BITV02Test",
-        "projectPath": "D:\\PHÁT TRIỂN ỨNG DỤNG - ASP.NET\\THIGIUAKI\\MVC21BITV02Test\\MVC21BITV02Test\\MVC21BITV02Test.csproj",
-        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\PHÁT TRIỂN ỨNG DỤNG - ASP.NET\\THIGIUAKI\\MVC21BITV02Test\\MVC21BITV02Test\\obj\\",
+        "projectPath": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\MVC21BITV02Test.csproj",
+        "packagesPath": "C:\\Users\\kunph\\.nuget\\packages\\",
+        "outputPath": "E:\\midterm ---- asp.net core mvc 02\\MVC21BITV02Test\\MVC21BITV02Test\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\kunph\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,6 +58,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.3, )"
             }
           },
           "imports": [
@@ -84,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVC21BITV02Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe6a86d28cd25a5eb5b7af8fc6dc347ab230dcbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVC21BITV02Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVC21BITV02Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
